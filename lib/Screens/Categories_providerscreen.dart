@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:markazapp/Screens/categories_postdetailscreen.dart';
+
 import 'package:markazapp/Screens/details_screen.dart';
 import 'package:markazapp/provider/categories_provider.dart';
 import 'package:markazapp/provider/product_provider.dart';
