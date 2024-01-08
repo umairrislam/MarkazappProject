@@ -27,7 +27,7 @@ class _HomeScreenState extends State<HomeScreen> {
     "assets/images/Enginepic.png",
     "assets/images/taillight.png",
     "assets/images/headlight.png",
-    "assets/images/brands.jpg",
+    "assets/images/engss.png",
   ];
    
    
